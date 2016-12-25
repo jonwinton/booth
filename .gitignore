@@ -1,7 +1,4 @@
 .DS_Store
-app/dist/index.html
-app/dist/build.js
-app/dist/styles.css
 builds/*
 node_modules
 npm-debug.log
